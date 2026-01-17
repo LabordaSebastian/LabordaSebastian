@@ -9,24 +9,28 @@ Me defino como un **entusiasta de la Ingeniería en la Nube** y la automatizaci�
 
 ### 🛠️ Tech Stack & Herramientas
 
-**Networking & Virtualización**
+**Networking & Virtualización :**
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GNS3](https://img.shields.io/badge/GNS3-000000?style=for-the-badge&logo=gns3&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
-**Programación & Scripting**
+**Programación & Scripting :**
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-**Monitoreo & Data**
+**Monitoreo & Data :**
+
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white)
 
-**Diseño & Simulación**
+**Diseño & Simulación :**
+
 ![OptiSystem](https://img.shields.io/badge/OptiSystem-005A9C?style=for-the-badge&logo=box&logoColor=white)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-RED?style=for-the-badge&logo=autodesk&logoColor=white)
 
