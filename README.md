@@ -20,6 +20,7 @@
 Trato de mantener mi stack versátil, desde el scripting hasta la simulación y el despliegue.
 
 **Infraestructura, Redes & Contenedores:**
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -27,6 +28,7 @@ Trato de mantener mi stack versátil, desde el scripting hasta la simulación y 
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
 **Desarrollo, Scripting & CI/CD:**
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -34,6 +36,7 @@ Trato de mantener mi stack versátil, desde el scripting hasta la simulación y 
 ![Git & GitHub Actions](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 **Monitoreo, Diseño & Datos:**
+
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-RED?style=for-the-badge&logo=autodesk&logoColor=white)
@@ -49,7 +52,7 @@ Trato de mantener mi stack versátil, desde el scripting hasta la simulación y 
 
 <br/>
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=LabordaSebastian&theme=dark&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com/?user=LabordaSebastian&theme=dark&hide_border=false)
 
 </div>
 
@@ -57,13 +60,13 @@ Trato de mantener mi stack versátil, desde el scripting hasta la simulación y 
 
 ### 📫 ¿Charlamos?
 
-Siempre estoy abierto a hablar de tecnología, redes, automatización, inversiones o si simplemente querés debatir por qué el CS2 es el mejor shooter táctico.
+Siempre estoy abierto a hablar de tecnología, redes, automatización o si simplemente querés debatir por qué el CS2 es el mejor shooter táctico.
 
 *   💼 **LinkedIn:** [Sebastian Laborda](https://www.linkedin.com/in/sebastian-laborda-ing)
 *   📧 **Email:** [labordasebastian03@gmail.com](mailto:labordasebastian03@gmail.com)
 
 <div align="center">
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=LabordaSebastian&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=LabordaSebastian&color=blue&style=flat-square&label=VISTAS+AL+PERFIL)
 
 </div>
