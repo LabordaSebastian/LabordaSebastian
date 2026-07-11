@@ -76,7 +76,7 @@ Trato de mantener mi stack versátil, desde el scripting hasta la simulación y 
 
 ### 📫 ¿Charlamos?
 
-Siempre estoy abierto a hablar de tecnología, redes, automatización o si simplemente querés debatir por qué el CS2 es el mejor esport.
+Siempre estoy abierto a hablar de tecnología, redes, automatización, o si simplemente querés debatir cuál es el mejor esport actualmente y por qué es el CS2.
 
 *   💼 **LinkedIn:** [Sebastian Laborda](https://www.linkedin.com/in/sebastian-laborda-ing)
 *   📧 **Email:** [labordasebastian03@gmail.com](mailto:labordasebastian03@gmail.com)
