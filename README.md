@@ -11,7 +11,7 @@
 *   🐧 **En la terminal:** Fiel usuario de Linux (Team Xubuntu), siempre buscando automatizar alguna tarea tediosa o trasteando con configuraciones de red.
 *   🏋️ **Fuera del teclado:** Si no estoy codeando, probablemente me encuentres entrenando en el gym (cuidando los macros en plena fase de definición), escuchando rock de los 90s (banco a muerte a Bon Jovi, Scorpions y Europe), o viendo un Major de CS2.
 *   🎬 **Cinéfilo:** Gran fanático del cine en general y de cualquier cosa donde actúe Johnny Depp (especialmente si hay barcos y piratas de por medio). 🏴‍☠️
-*   📈 **Mercados:** Me gusta leer sobre finanzas personales y sigo bastante de cerca el mercado de capitales, desde el Merval hasta los CEDEARs.
+*   📚 **Aprendizaje continuo:** Soy un curioso crónico de la tecnología. Me encanta informarme sobre nuevas herramientas, leer documentación y levantar laboratorios para probar cosas nuevas o entender cómo funcionan por detrás.
 
 ---
 
@@ -55,7 +55,7 @@ Trato de mantener mi stack versátil, desde el scripting hasta la simulación y 
 
 ### 📫 ¿Charlamos?
 
-Siempre estoy abierto a hablar de tecnología, redes, automatización, IA, Ciberseguridad o si simplemente querés debatir por qué el CS2 es el mejor shooter táctico.
+Siempre estoy abierto a hablar de tecnología, redes, automatización, inversiones o si simplemente querés debatir por qué el CS2 es el mejor shooter táctico.
 
 *   💼 **LinkedIn:** [Sebastian Laborda](https://www.linkedin.com/in/sebastian-laborda-ing)
 *   📧 **Email:** [labordasebastian03@gmail.com](mailto:labordasebastian03@gmail.com)
