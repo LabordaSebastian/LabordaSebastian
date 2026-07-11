@@ -1,13 +1,12 @@
 # ¡Hola, soy Sebastian Laborda! 👋
 
-### 📡 Ingeniero en Telecomunicaciones | Infraestructura & NetDevOps
+### 📡 Ingeniero en Telecomunicaciones
 
 ¡Bienvenido a mi perfil! Soy Ingeniero en Telecomunicaciones (graduado de la UNRC) con base en Río Cuarto, Argentina 🇦🇷. Me apasiona hacer que las cosas se conecten y funcionen de manera eficiente, ya sea diseñando la infraestructura física de una red o automatizando despliegues y orquestando contenedores a nivel local o en servidores dedicados. 
 
 ---
 
-### 👨‍💻 Un poco sobre mí (Más allá de LinkedIn)
-
+### 👨‍💻 Un poco sobre mí 
 *   🐧 **En la terminal:** Fiel usuario de Linux (Team Xubuntu), siempre buscando automatizar alguna tarea tediosa o trasteando con configuraciones de red.
 *   🏋️ **Fuera del teclado:** Si no estoy codeando, probablemente me encuentres entrenando en el gym (cuidando los macros en plena fase de definición), escuchando rock de los 90s (banco a muerte a Bon Jovi, Scorpions y Europe), o viendo un Major de CS2.
 *   🎬 **Cinéfilo:** Gran fanático del cine en general y de cualquier cosa donde actúe Johnny Depp (especialmente si hay barcos y piratas de por medio). 🏴‍☠️
