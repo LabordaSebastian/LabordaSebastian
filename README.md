@@ -44,10 +44,6 @@ Trato de mantener mi stack versátil, desde el scripting hasta la simulación y 
 
 ### 📊 Mis Estadísticas
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LabordaSebastian&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LabordaSebastian&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 <br/>
 
