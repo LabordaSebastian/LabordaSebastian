@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- GIF de Negan sonriendo -->
-<img src="https://media.giphy.com/media/l0HlMh40niCmqYcIg/giphy.gif" width="180" alt="Negan Smiling" style="border-radius: 10px;" />
+<!-- GIF de Negan cargado localmente en el repositorio -->
+<img src="dc6bq0c-5ff70f54-86e8-42bb-8851-872037d95369.gif" width="180" alt="Negan Smiling" style="border-radius: 10px;" />
 
 # ¡Hola, soy Sebastian Laborda! 👋
 
