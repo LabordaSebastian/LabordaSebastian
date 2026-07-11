@@ -10,17 +10,17 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1500&color=0DB7ED&center=true&vCenter=true&width=600&lines=Ingeniero+en+Telecomunicaciones;Entusiasta+de+Linux+y+Contenedores;Automatizaci%C3%B3n,+Redes+e+Infraestructura;IA,Ciberseguridad" alt="Typing SVG" />
 </a>
 
-¡Bienvenido a mi perfil! Soy Ingeniero en Telecomunicaciones (graduado de la UNRC) con base en Río Cuarto, Argentina 🇦🇷. Me apasiona hacer que las cosas se conecten y funcionen de manera eficiente, ya sea diseñando la infraestructura física de una red o automatizando despliegues y orquestando contenedores a nivel local o en servidores dedicados.
+¡Bienvenido a mi perfil! Soy Ingeniero en Telecomunicaciones graduado de la Universidad Nacional de Rio Cuarto, Argentina 🇦🇷. Me apasiona hacer que las cosas se conecten y funcionen de manera eficiente, ya sea diseñando la infraestructura  automatizando despliegues y orquestando contenedores.
 
 </div>
 
 ---
 
-### 👨‍💻 Un poco sobre mí 
+### Un poco sobre mí dentro y fuera del server:
 
-*   🐧 **En la terminal:** Fiel usuario de Linux (Team Xubuntu), siempre buscando automatizar alguna tarea tediosa o trasteando con configuraciones de red.
-*   🏋️ **Fuera del teclado:** Si no estoy codeando, probablemente me encuentres entrenando en el gym (cuidando los macros en plena fase de definición), escuchando rock de los 90s (banco a muerte a Bon Jovi, Scorpions y Europe), o viendo un Major de CS2.
-*   🎬 **Cinéfilo:** Gran fanático del cine en general y de cualquier cosa donde actúe Johnny Depp (especialmente si hay barcos y piratas de por medio). 🏴‍☠️
+*   🐧 **En la terminal:** Fiel usuario de Linux, siempre buscando automatizar alguna tarea tediosa o trasteando con configuraciones de red.
+*   🏋️ **Fuera del teclado:** Si no estoy codeando, probablemente me encuentres entrenando en el gym, escuchando rock de los 90s, o viendo un Major de CS2.
+*   🎬 **fanatico del cine:** Gran fanático del cine en general y de cualquier cosa donde actúe Johnny Depp especialmente si hay barcos y piratas de por medio ;) 🏴‍☠️.
 *   📚 **Aprendizaje continuo:** Soy un curioso crónico de la tecnología. Me encanta informarme sobre nuevas herramientas, leer documentación y levantar laboratorios para probar cosas nuevas o entender cómo funcionan por detrás.
 
 ---
@@ -76,7 +76,7 @@ Trato de mantener mi stack versátil, desde el scripting hasta la simulación y 
 
 ### 📫 ¿Charlamos?
 
-Siempre estoy abierto a hablar de tecnología, redes, automatización o si simplemente querés debatir por qué el CS2 es el mejor shooter táctico.
+Siempre estoy abierto a hablar de tecnología, redes, automatización o si simplemente querés debatir por qué el CS2 es el mejor esport.
 
 *   💼 **LinkedIn:** [Sebastian Laborda](https://www.linkedin.com/in/sebastian-laborda-ing)
 *   📧 **Email:** [labordasebastian03@gmail.com](mailto:labordasebastian03@gmail.com)
