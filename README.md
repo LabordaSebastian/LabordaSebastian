@@ -1,61 +1,67 @@
-# Hola, soy Sebastian Laborda 👋
-### 📡 Ingeniero en Telecomunicaciones (en formación) | NetDevOps & Cloud Engineering Enthusiast ☁️
+# ¡Hola, soy Sebastian Laborda! 👋
 
-Estudiante avanzado de Ingeniería en Telecomunicaciones en la **UNRC** (Río Cuarto, Argentina), próximo a graduarme.
+### 📡 Ingeniero en Telecomunicaciones | Infraestructura & NetDevOps
 
-Me defino como un **entusiasta de la Ingeniería en la Nube** y la automatización de redes. Mi enfoque combina los fundamentos de telecomunicaciones con las tecnologías modernas de infraestructura. Me especializo en **protocolos TCP/IP, administración Linux y orquestación**, buscando siempre aplicar soluciones escalables en entornos de alta complejidad.
+¡Bienvenido a mi perfil! Soy Ingeniero en Telecomunicaciones (graduado de la UNRC) con base en Río Cuarto, Argentina 🇦🇷. Me apasiona hacer que las cosas se conecten y funcionen de manera eficiente, ya sea diseñando la infraestructura física de una red o automatizando despliegues y orquestando contenedores a nivel local o en servidores dedicados. 
+
+---
+
+### 👨‍💻 Un poco sobre mí (Más allá de LinkedIn)
+
+*   🐧 **En la terminal:** Fiel usuario de Linux (Team Xubuntu), siempre buscando automatizar alguna tarea tediosa o trasteando con configuraciones de red.
+*   🏋️ **Fuera del teclado:** Si no estoy codeando, probablemente me encuentres entrenando en el gym (cuidando los macros en plena fase de definición), escuchando rock de los 90s (banco a muerte a Bon Jovi, Scorpions y Europe), o viendo un Major de CS2.
+*   🎬 **Cinéfilo:** Gran fanático del cine en general y de cualquier cosa donde actúe Johnny Depp (especialmente si hay barcos y piratas de por medio). 🏴‍☠️
+*   📈 **Mercados:** Me gusta leer sobre finanzas personales y sigo bastante de cerca el mercado de capitales, desde el Merval hasta los CEDEARs.
 
 ---
 
 ### 🛠️ Tech Stack & Herramientas
 
-**Networking & Virtualización :**
+Trato de mantener mi stack versátil, desde el scripting hasta la simulación y el despliegue.
 
+**Infraestructura, Redes & Contenedores:**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GNS3](https://img.shields.io/badge/GNS3-000000?style=for-the-badge&logo=gns3&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
-**Programación & Scripting :**
-
+**Desarrollo, Scripting & CI/CD:**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Git & GitHub Actions](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-**Monitoreo & Data :**
-
+**Monitoreo, Diseño & Datos:**
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
-![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white)
-
-**Diseño & Simulación :**
-
-![OptiSystem](https://img.shields.io/badge/OptiSystem-005A9C?style=for-the-badge&logo=box&logoColor=white)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-RED?style=for-the-badge&logo=autodesk&logoColor=white)
 
+---
+
+### 📊 Mis Estadísticas
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LabordaSebastian&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LabordaSebastian&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Langs" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=LabordaSebastian&theme=dark&hide_border=false" alt="GitHub Streak" />
+</div>
 
 ---
 
-### 🚀 Experiencia y Proyectos Destacados
+### 📫 ¿Charlamos?
 
-* **Diseño de Redes FTTH (Comuna de Charras):** Diseño integral de infraestructura de planta externa, cálculo de presupuesto de potencia óptica y dimensionamiento de ancho de banda.
-* **Investigación en Laboratorio de Redes (UNRC):** Orquestación de servicios con **Docker** y **ContainerLab**; simulación de topologías complejas y virtualización de funciones de red (VNF).
-* **Docencia:** Ayudante de Cátedra en "Sistemas y Señales I y II", fomentando el análisis crítico y matemático.
+Siempre estoy abierto a hablar de tecnología, redes, automatización, IA, Ciberseguridad o si simplemente querés debatir por qué el CS2 es el mejor shooter táctico.
 
----
+*   💼 **LinkedIn:** [Sebastian Laborda](https://www.linkedin.com/in/sebastian-laborda-ing)
+*   📧 **Email:** [labordasebastian03@gmail.com](mailto:labordasebastian03@gmail.com)
 
-### 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=LabordaSebastian&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=LabordaSebastian&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LabordaSebastian&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
----
-
-### 📫 Contacto
-
-* **LinkedIn:** [Sebastian Laborda](https://www.linkedin.com/in/sebastian-laborda-ing)
-* **Email:** [labordasebastian03@gmail.com](mailto:labordasebastian03@gmail.com)
-
-[![](https://visitcount.itsvg.in/api?id=LabordaSebastian&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=LabordaSebastian&icon=0&color=0" alt="Profile Views" />
+  </a>
+</div>
