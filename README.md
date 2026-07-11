@@ -6,6 +6,8 @@
 <img src="dc6bq0c-5ff70f54-86e8-42bb-8851-872037d95369.gif" width="180" alt="Negan Smiling" style="border-radius: 10px;" />
 
 
+
+
 <!-- Animación de texto estilo máquina de escribir -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1500&color=0DB7ED&center=true&vCenter=true&width=600&lines=Ingeniero+en+Telecomunicaciones;Entusiasta+de+Linux+y+Contenedores;Automatizaci%C3%B3n,+Redes+e+Infraestructura;IA+y+Ciberseguridad" alt="Typing SVG" />
