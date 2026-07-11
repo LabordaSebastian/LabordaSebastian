@@ -1,12 +1,23 @@
+<div align="center">
+
+<!-- GIF del Pingüino de Linux (Tux) -->
+<img src="https://media.giphy.com/media/26u4cqiYI30juCOGY/giphy.gif" width="100" alt="Linux Tux" />
+
 # ¡Hola, soy Sebastian Laborda! 👋
 
-### 📡 Ingeniero en Telecomunicaciones
+<!-- Animación de texto estilo máquina de escribir -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1500&color=0DB7ED&center=true&vCenter=true&width=600&lines=Ingeniero+en+Telecomunicaciones;Entusiasta+de+Linux+y+Contenedores;Automatizaci%C3%B3n,+Redes+e+Infraestructura;Gamer+y+Cin%C3%A9filo" alt="Typing SVG" />
+</a>
 
-¡Bienvenido a mi perfil! Soy Ingeniero en Telecomunicaciones (graduado de la UNRC) con base en Río Cuarto, Argentina 🇦🇷. Me apasiona hacer que las cosas se conecten y funcionen de manera eficiente, ya sea diseñando la infraestructura física de una red o automatizando despliegues y orquestando contenedores a nivel local o en servidores dedicados. 
+¡Bienvenido a mi perfil! Soy Ingeniero en Telecomunicaciones (graduado de la UNRC) con base en Río Cuarto, Argentina 🇦🇷. Me apasiona hacer que las cosas se conecten y funcionen de manera eficiente, ya sea diseñando la infraestructura física de una red o automatizando despliegues y orquestando contenedores a nivel local o en servidores dedicados.
+
+</div>
 
 ---
 
 ### 👨‍💻 Un poco sobre mí 
+
 *   🐧 **En la terminal:** Fiel usuario de Linux (Team Xubuntu), siempre buscando automatizar alguna tarea tediosa o trasteando con configuraciones de red.
 *   🏋️ **Fuera del teclado:** Si no estoy codeando, probablemente me encuentres entrenando en el gym (cuidando los macros en plena fase de definición), escuchando rock de los 90s (banco a muerte a Bon Jovi, Scorpions y Europe), o viendo un Major de CS2.
 *   🎬 **Cinéfilo:** Gran fanático del cine en general y de cualquier cosa donde actúe Johnny Depp (especialmente si hay barcos y piratas de por medio). 🏴‍☠️
@@ -42,13 +53,23 @@ Trato de mantener mi stack versátil, desde el scripting hasta la simulación y 
 
 ---
 
-### 📊 Mis Estadísticas
-
+### 📊 Mis Estadísticas y Contribuciones
 
 <br/>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=LabordaSebastian&theme=dark&hide_border=false)
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=LabordaSebastian&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
+<br/>
+
+<!-- Animación de la Serpiente de Contribuciones -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LabordaSebastian/LabordaSebastian/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LabordaSebastian/LabordaSebastian/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LabordaSebastian/LabordaSebastian/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
@@ -61,7 +82,6 @@ Siempre estoy abierto a hablar de tecnología, redes, automatización o si simpl
 *   📧 **Email:** [labordasebastian03@gmail.com](mailto:labordasebastian03@gmail.com)
 
 <div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=LabordaSebastian&color=blue&style=flat-square&label=VISTAS+AL+PERFIL)
-
+<br/>
+<img src="https://komarev.com/ghpvc/?username=LabordaSebastian&color=0DB7ED&style=flat-square&label=VISTAS+AL+PERFIL" alt="Vistas al perfil" />
 </div>
