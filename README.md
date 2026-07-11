@@ -7,7 +7,7 @@
 
 <!-- Animación de texto estilo máquina de escribir -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1500&color=0DB7ED&center=true&vCenter=true&width=600&lines=Ingeniero+en+Telecomunicaciones;Entusiasta+de+Linux+y+Contenedores;Automatizaci%C3%B3n,+Redes+e+Infraestructura" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1500&color=0DB7ED&center=true&vCenter=true&width=600&lines=Ingeniero+en+Telecomunicaciones;Entusiasta+de+Linux+y+Contenedores;Automatizaci%C3%B3n,+Redes+e+Infraestructura;IA,Ciberseguridad" alt="Typing SVG" />
 </a>
 
 ¡Bienvenido a mi perfil! Soy Ingeniero en Telecomunicaciones (graduado de la UNRC) con base en Río Cuarto, Argentina 🇦🇷. Me apasiona hacer que las cosas se conecten y funcionen de manera eficiente, ya sea diseñando la infraestructura física de una red o automatizando despliegues y orquestando contenedores a nivel local o en servidores dedicados.
